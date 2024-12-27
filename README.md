@@ -1,1 +1,1 @@
-**FIT9132-MC-Ass3-CaseStudy.pdf:** Assignment specifications.
+- FIT9132-MC-Ass3-CaseStudy.pdf: Assignment specifications.
